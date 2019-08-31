@@ -1,0 +1,67 @@
+<Ihre Matrikelnummer>
+Aufgabe 6.1:
+a) <Einige Vorteile>
+b) <Einige Vorteile>
+c) <Ich präferiere...>
+d) <Tool 1, Tool 2, Tool 3>
+e) <Die Cornell-Methode ist...>
+f) <Outlining ist...>
+Aufgabe 6.2:
+a) <Unterschied1, Unterschied2, Unterschied 3, Unterschied 4>
+b) <Der zentrale Unterschied ist...>
+c) <Link>
+d) <Code-Zitation>
+Aufgabe 6.3:
+a) <Dark Patterns sind...>
+b) <Beispiel aus dem Alltag>
+c) <Imperativ>
+Aufgabe 6.4:
+<Link zum Github-Repository>
+Aufgabe 6.5:
+a) <git ...>
+b) <git ...>
+c) <git ...>
+Aufgabe 6.6:
+a) <Antwort>
+b) <Antwort>
+c) <Antwort>
+d) <Antwort>
+e) <Antwort>
+f) <Antwort>
+g) <Antwort>
+h) <Antwort>
+i) <Antwort>
+j) <Antwort>
+k) <Antwort>
+l) <Antwort>
+m) <Antwort>
+n) <Antwort>
+o) <Antwort>
+p) <Antwort>
+q) <Antwort>
+r) <Antwort>
+s) <Antwort>
+t) <Antwort>
+u) <Antwort>
+v) <Antwort>
+w) <Antwort>
+x) <Antwort>
+Aufgabe 6.7:
+a) <w|f>
+b) <w|f>
+c) <w|f>
+d) <w|f>
+e) <w|f>
+f) <w|f>
+g) <w|f>
+h) <w|f>
+i) <w|f>
+j) <w|f>
+k) <w|f>
+l) <w|f>
+m) <w|f>
+n) <w|f>
+Aufgabe 6.8:
+a) <Link>
+b) <Aspekt1, Aspekt2>
+c) <Aspekt1, Aspekt2>
